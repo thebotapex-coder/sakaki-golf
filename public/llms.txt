@@ -1,0 +1,28 @@
+# Sakaki Golf
+
+> Premium golf apparel designed for performance and lifestyle. Polos, bottoms, outerwear, headwear, and accessories for the modern golfer.
+
+Sakaki Golf is a premium golf clothing brand offering performance-focused apparel that transitions from the course to everyday life. Every piece is designed with fit, movement, and durability as the foundation.
+
+## Products
+- Polos: Moisture-wicking performance polos for men and women
+- Bottoms: Golf pants, shorts, and skorts with four-way stretch
+- Outerwear: Quarter-zips, jackets, and mid-layers
+- Headwear: Structured and unstructured caps
+- Accessories: Belts and lifestyle accessories
+
+## Features
+- Practice Planner: Free in-app golf practice planning tool
+- The Journal: Golf style, performance tips, and brand content
+
+## Contact
+- Email: hello@sakakigolf.com
+- Website: https://sakakigolf.com
+
+## Pages
+- Home: https://sakakigolf.com
+- Shop: https://sakakigolf.com/shop
+- About: https://sakakigolf.com/about
+- Journal: https://sakakigolf.com/blog
+- Practice Planner: https://sakakigolf.com/practice-planner
+- Contact: https://sakakigolf.com/contact
